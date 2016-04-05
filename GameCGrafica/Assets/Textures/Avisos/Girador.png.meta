@@ -1,0 +1,76 @@
+fileFormatVersion: 2
+guid: f77b8065db9dd6c48b5c977a1c800c52
+timeCreated: 1459160306
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: Girador_0
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 80, y: 10, z: 226, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: Girador_0
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 10
+        width: 48
+        height: 51
+      alignment: 9
+      pivot: {x: 0.13008022, y: 0.05481183}
+      border: {x: 0, y: 0, z: 3, w: 0}
+      outline:
+      - - {x: 7.7561493, y: 48.204597}
+        - {x: -6.2438507, y: 24.204597}
+        - {x: -6.2438507, y: -2.7954025}
+        - {x: 5.7561493, y: -2.7954025}
+        - {x: 38.75615, y: 22.204597}
+        - {x: 38.75615, y: 43.204597}
+        - {x: 37.75615, y: 48.204597}
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
